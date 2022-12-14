@@ -24,9 +24,9 @@ router.get('/:id', async (request, response) => {
 })
 
 // CREATE USER 
-router.post('/create', (request, response) => {
-    const user = database.add('users', request.body)
-    response.status(200).send('User created successfully')
+router.post('/create', async (request, response) => {
+    const user = await database.add('users', request.body)
+    response.status(200).json(user)
 })
 
 // PUT USER

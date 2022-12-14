@@ -31,7 +31,8 @@ export default class Database {
         const data = await this.fileData
         const entity = { id: uuid(), ...entityPayload }
         data[entityType] = [...(data[entityType] ?? []), entity] 
-        this.fileData = data
+        await (this.fileData = data)
+        return entity
     }  
 
     // Delete an item
