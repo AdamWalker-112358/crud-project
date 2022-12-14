@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "id": "f3d7feb9-686b-4fdf-8b3d-b3e32fa10a76",
+      "name": "bbb",
+      "age": 123
+    },
+    {
+      "id": "525f17a2-540d-4138-9697-47b5b025bf4a",
+      "name": "ccc",
+      "age": 123
+    },
+    {
+      "id": "5e2d72d4-00bf-44ae-8b31-1cbfb383b697",
+      "name": "ddd",
+      "age": 123
+    },
+    {
+      "id": "c20b0175-bcb1-4600-b9a8-f5567d6406b4",
+      "name": "fff",
+      "age": 333
+    },
+    {
+      "id": "d469d8dc-a97d-433b-8dc1-c7ee3f1ce08e",
+      "name": "aaaxxxqqq",
+      "age": 4,
+      "color": "red",
+      "animal": "dog"
+    }
+  ]
+}
