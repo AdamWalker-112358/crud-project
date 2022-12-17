@@ -38,25 +38,23 @@ export default class Database {
     // Delete an item
     async delete(entityType, entityId) {
         const data = await this.fileData
-        let entities = data[entityType]
-        let deletedEntity = null;
-        if (entities) {
-            deletedEntity = entities.find(entity => entity.id == entityId)
-            entities = entities.filter(entity => entity.id != entityId)  
-            data[entityType] = entities
-        }
+        const entity = data[entityType].find(entity => entity.id == entityId)
+        const entities = data[entityType].filter(entity => entity.id != entityId)
+        if (!entity) throw new Error(`Entity type: ${entityType} | Entity Not Found`)
+        
+        data[entityType] = entities
         await (this.fileData = data)
-        return deletedEntity
+        return entity
     }
 
     // Read an item
     async read(entityType, entityId) {
         const data = await this.fileData
         const entities = data[entityType]
-        if (entityId)
-            return entities?.find(entity => entity.id == entityId)
-        else 
-            return entities
+        if (!entityId) return entities
+        const entity = entities?.find(entity => entity.id == entityId)
+        if (!entity) throw new Error(`Entity type: ${entityType} | Entity Not Found`)
+        return entity 
     }
 
     // Update an item
@@ -64,6 +62,7 @@ export default class Database {
         const data = await this.fileData;
         let entities = data[entityType]
         let entity = entities?.find(entity => entity.id == entityId)
+        if (!entities || !entity) throw new Error(`Entity type: ${entityType} | Entity Not Found`)
         if (updateStrategy == UPDATE_STRATEGY.MERGE)
             entity =  {...entity,...entityPayload}
         if (updateStrategy == UPDATE_STRATEGY.OVERWRITE) 
