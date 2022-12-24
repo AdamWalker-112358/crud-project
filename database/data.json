@@ -11,13 +11,6 @@
       "age": 333
     },
     {
-      "id": "d469d8dc-a97d-433b-8dc1-c7ee3f1ce08e",
-      "name": "aaaxxxqqq",
-      "age": 4,
-      "color": "red",
-      "animal": "dog"
-    },
-    {
       "id": "dfe408a0-3d05-4b84-b743-c07bd685a2e9",
       "name": "ppp",
       "age": 333
@@ -38,10 +31,26 @@
       "age": 333
     },
     {
-      "id": "d962c2c4-766b-44c5-9f32-83ef11fc75c3",
+      "id": "7549b933-b946-4a90-bce7-3faf6d9c3be0",
       "name": "ff",
       "age": 333,
       "animal": "dog"
+    },
+    {
+      "id": "b81806ce-78b1-4bb8-9d7d-2c0c95401650",
+      "name": "ff",
+      "age": 333,
+      "animal": "dog"
+    },
+    {
+      "id": "a08d9114-c50a-4e31-9812-a360240d0b6d",
+      "name": "ff",
+      "age": 333,
+      "animal": "dog"
+    },
+    {
+      "id": "d469d8dc-a97d-433b-8dc1-c7ee3f1ce08e",
+      "name": "aaaxxxqqq"
     }
   ],
   "logs": [
@@ -350,6 +359,228 @@
       "protocol": "http",
       "originalUrl": "/users/525f17a2-540d-4138-9697-47b5b025bf4a",
       "timestamp": "2022-12-17T20:11:15.671Z"
+    },
+    {
+      "id": "2f3356c4-e83e-41f8-92d5-d6de9bf46373",
+      "protocol": "http",
+      "originalUrl": "/",
+      "timestamp": "2022-12-23T06:28:19.546Z"
+    },
+    {
+      "id": "77dcfe38-0ce5-463c-8b18-333ef44142aa",
+      "protocol": "http",
+      "originalUrl": "/",
+      "timestamp": "2022-12-23T06:28:27.656Z"
+    },
+    {
+      "id": "e86ba55f-4173-4e38-9165-2ec1267d8057",
+      "protocol": "http",
+      "originalUrl": "/",
+      "timestamp": "2022-12-23T06:28:28.448Z"
+    },
+    {
+      "id": "5a321f4e-aead-4faf-bf81-74174821e20a",
+      "protocol": "http",
+      "originalUrl": "/",
+      "timestamp": "2022-12-23T06:29:50.885Z"
+    },
+    {
+      "id": "5c33c159-2fa1-43a1-a572-4fd839d59c4f",
+      "protocol": "http",
+      "originalUrl": "/",
+      "timestamp": "2022-12-23T06:29:51.911Z"
+    },
+    {
+      "id": "f7e9863e-1958-498e-9695-6559457466d2",
+      "protocol": "http",
+      "originalUrl": "/2345",
+      "timestamp": "2022-12-23T06:30:01.496Z"
+    },
+    {
+      "id": "f1ff83a6-4d53-4527-89f8-8f5912cc4eb9",
+      "protocol": "http",
+      "originalUrl": "/users/23532",
+      "timestamp": "2022-12-23T06:30:07.951Z"
+    },
+    {
+      "id": "de60fffd-bc41-4abd-9418-075a34b93668",
+      "protocol": "http",
+      "originalUrl": "/favicon.ico",
+      "timestamp": "2022-12-23T06:30:08.001Z"
+    },
+    {
+      "id": "54cca65c-fdf3-4536-83bd-2659f79756ff",
+      "protocol": "http",
+      "originalUrl": "/sdgf/23532",
+      "timestamp": "2022-12-23T06:30:15.659Z"
+    },
+    {
+      "id": "04dd96ca-838e-44fa-a0df-dabf904b0e42",
+      "protocol": "http",
+      "originalUrl": "/sdgf/23532",
+      "timestamp": "2022-12-23T06:31:34.646Z"
+    },
+    {
+      "id": "4b633a26-f681-4fa0-bb0f-7e1d9713dc0e",
+      "protocol": "http",
+      "originalUrl": "/sdgf/23532",
+      "timestamp": "2022-12-23T06:31:58.776Z"
+    },
+    {
+      "id": "71edb476-8b4a-4160-9a4b-c629eb65676c",
+      "protocol": "http",
+      "originalUrl": "/sdgf/23532",
+      "timestamp": "2022-12-23T06:32:43.504Z"
+    },
+    {
+      "id": "880987a4-4090-4eca-989e-19b35e341795",
+      "protocol": "http",
+      "originalUrl": "/sdgf/23532",
+      "timestamp": "2022-12-23T06:32:45.597Z"
+    },
+    {
+      "id": "93810930-162a-4de3-a1a9-6a4408070302",
+      "protocol": "http",
+      "originalUrl": "/sdgf/23532",
+      "timestamp": "2022-12-23T06:32:49.306Z"
+    },
+    {
+      "id": "ff17e15a-8708-40cc-8a6f-c6bba7e14615",
+      "protocol": "http",
+      "originalUrl": "/users",
+      "timestamp": "2022-12-23T06:32:57.569Z"
+    },
+    {
+      "id": "6f051865-d813-4eae-be8d-a8579195ebbe",
+      "protocol": "http",
+      "originalUrl": "/favicon.ico",
+      "timestamp": "2022-12-23T06:32:57.672Z"
+    },
+    {
+      "id": "570da0d6-8e2f-4a08-9ca7-619e7f4960e0",
+      "protocol": "http",
+      "originalUrl": "/sdg",
+      "timestamp": "2022-12-23T06:33:39.170Z"
+    },
+    {
+      "id": "bafe7353-9758-4e1c-a7a4-2321222e0e8b",
+      "protocol": "http",
+      "originalUrl": "/sdg",
+      "timestamp": "2022-12-23T06:33:46.801Z"
+    },
+    {
+      "id": "f86e0b92-90ca-49d0-8d50-3865c09c1821",
+      "protocol": "http",
+      "originalUrl": "/favicon.ico",
+      "timestamp": "2022-12-23T06:33:46.854Z"
+    },
+    {
+      "id": "cfde8683-bf10-429e-8c73-0d8949f3b2b9",
+      "protocol": "http",
+      "originalUrl": "/users/create",
+      "timestamp": "2022-12-23T06:41:53.906Z"
+    },
+    {
+      "id": "ab4a7c6d-b600-4d04-bf4d-1ec7cb59b532",
+      "protocol": "http",
+      "originalUrl": "/users/create",
+      "timestamp": "2022-12-23T06:42:08.074Z"
+    },
+    {
+      "id": "c1d0b9b6-2d7f-49b3-a96a-c2091c7173e3",
+      "protocol": "http",
+      "originalUrl": "/users/create",
+      "timestamp": "2022-12-23T06:42:14.056Z"
+    },
+    {
+      "id": "181a2f32-6c88-4844-9739-4f60702a5084",
+      "protocol": "http",
+      "originalUrl": "/users/525f17a2-540d-4138-9697-47b5b025bf4a",
+      "timestamp": "2022-12-23T06:42:18.170Z"
+    },
+    {
+      "id": "a7f4e12a-90b4-4954-8748-dc5dab4ec944",
+      "protocol": "http",
+      "originalUrl": "/users/f3d7feb9-686b-4fdf-8b3d-b3e32fa10a76111",
+      "timestamp": "2022-12-23T06:42:21.878Z"
+    },
+    {
+      "id": "324f7f30-8cfc-487f-9e4e-fedc0818ab28",
+      "protocol": "http",
+      "originalUrl": "/users/",
+      "timestamp": "2022-12-23T06:42:25.136Z"
+    },
+    {
+      "id": "3ec76493-074e-4de5-866a-df683defa2a6",
+      "protocol": "http",
+      "originalUrl": "/users/",
+      "timestamp": "2022-12-23T06:42:31.715Z"
+    },
+    {
+      "id": "b3e5d34c-b731-4050-954e-3ce9a75db0d1",
+      "protocol": "http",
+      "originalUrl": "/users/",
+      "timestamp": "2022-12-23T06:42:35.291Z"
+    },
+    {
+      "id": "0699c7bf-94a2-44d0-92e0-1f1ecb2379db",
+      "protocol": "http",
+      "originalUrl": "/users/delete",
+      "timestamp": "2022-12-23T06:42:40.978Z"
+    },
+    {
+      "id": "e97380ea-6e91-4372-b305-895ddf5a399b",
+      "protocol": "http",
+      "originalUrl": "/users/delete",
+      "timestamp": "2022-12-23T06:42:58.517Z"
+    },
+    {
+      "id": "ccd31814-51d5-4316-afb2-ab1bb6e1fe36",
+      "protocol": "http",
+      "originalUrl": "/tasks/create",
+      "timestamp": "2022-12-23T07:01:13.288Z"
+    },
+    {
+      "id": "ea57b9e6-af2b-429c-9e52-3d919c351890",
+      "protocol": "http",
+      "originalUrl": "/tasks/b6e40a7e-be06-4380-9cc8-bb4017d08ba3",
+      "timestamp": "2022-12-23T07:01:43.959Z"
+    },
+    {
+      "id": "052b5f14-b94c-4ee2-a466-9f28801663b9",
+      "protocol": "http",
+      "originalUrl": "/tasks",
+      "timestamp": "2022-12-23T07:01:48.682Z"
+    },
+    {
+      "id": "b694bf01-24c5-4b29-8dc2-4465a567f4c8",
+      "protocol": "http",
+      "originalUrl": "/tasks/",
+      "timestamp": "2022-12-23T07:03:29.404Z"
+    },
+    {
+      "id": "5f172df2-12e2-41ab-b7c7-1649d8086be0",
+      "protocol": "http",
+      "originalUrl": "/tasks/",
+      "timestamp": "2022-12-23T07:04:00.433Z"
+    },
+    {
+      "id": "2a309192-4fbe-466d-8b4a-27cb08cc6ad8",
+      "protocol": "http",
+      "originalUrl": "/tasks/",
+      "timestamp": "2022-12-23T07:04:11.380Z"
+    },
+    {
+      "id": "7c1352d4-e740-4f45-85c3-b4c4d5640fa7",
+      "protocol": "http",
+      "originalUrl": "/tasks/delete",
+      "timestamp": "2022-12-23T07:04:23.927Z"
+    },
+    {
+      "id": "a5c89b62-95f8-4f97-9903-c7abe19942a6",
+      "protocol": "http",
+      "originalUrl": "/sdg",
+      "timestamp": "2022-12-23T15:41:09.130Z"
     }
   ],
   "errors": [
@@ -487,14 +718,45 @@
       "name": "Error",
       "message": "Entity type: tasks | Entity Not Found",
       "timestamp": "2022-12-17T20:08:26.355Z"
+    },
+    {
+      "id": "8ff5c9f1-54ff-48cf-9391-1c28c77e9621",
+      "protocol": "http",
+      "originalUrl": "/users/23532",
+      "stack": "Error: Entity type: users | Entity Not Found\n    at Database.read (file:///Users/adamwalker/Developer/crud-project/database/database.js:56:28)\n    at async file:///Users/adamwalker/Developer/crud-project/routes/users.js:24:22",
+      "name": "Error",
+      "message": "Entity type: users | Entity Not Found",
+      "timestamp": "2022-12-23T06:30:07.962Z"
+    },
+    {
+      "id": "e5e0137a-2898-46d2-be56-377c012f8ee8",
+      "protocol": "http",
+      "originalUrl": "/users/f3d7feb9-686b-4fdf-8b3d-b3e32fa10a76111",
+      "stack": "Error: Entity type: users | Entity Not Found\n    at Database.read (file:///Users/adamwalker/Developer/crud-project/database/database.js:56:28)\n    at async file:///Users/adamwalker/Developer/crud-project/routes/users.js:24:22",
+      "name": "Error",
+      "message": "Entity type: users | Entity Not Found",
+      "timestamp": "2022-12-23T06:42:21.888Z"
+    },
+    {
+      "id": "ee963f64-e164-455e-85b5-37626a516a08",
+      "protocol": "http",
+      "originalUrl": "/users/delete",
+      "stack": "Error: Entity type: users | Entity Not Found\n    at Database.delete (file:///Users/adamwalker/Developer/crud-project/database/database.js:43:28)\n    at async file:///Users/adamwalker/Developer/crud-project/routes/users.js:74:22",
+      "name": "Error",
+      "message": "Entity type: users | Entity Not Found",
+      "timestamp": "2022-12-23T06:42:40.982Z"
+    },
+    {
+      "id": "e11f6f64-4a5b-467f-8d56-cb64906167a6",
+      "protocol": "http",
+      "originalUrl": "/tasks/",
+      "stack": "Error: Entity type: tasks | Entity Not Found\n    at Database.update (file:///Users/adamwalker/Developer/crud-project/database/database.js:65:41)\n    at async file:///Users/adamwalker/Developer/crud-project/routes/tasks.js:44:22",
+      "name": "Error",
+      "message": "Entity type: tasks | Entity Not Found",
+      "timestamp": "2022-12-23T07:03:29.409Z"
     }
   ],
   "tasks": [
-    {
-      "id": "b6e40a7e-be06-4380-9cc8-bb4017d08ba3",
-      "name": "aaa",
-      "age": 123
-    },
     {
       "id": "ebe8b42f-7ef2-4b8c-a615-f6db01cc1fb0",
       "name": "bbb",
@@ -522,6 +784,11 @@
     },
     {
       "id": "e73f94c9-cf4c-4a3a-9f30-a221a8cc08f2",
+      "name": "bbb",
+      "description": "need to make a bbq"
+    },
+    {
+      "id": "14df9d05-84fe-4d06-b694-c2e189567c82",
       "name": "bbb",
       "description": "need to make a bbq"
     }

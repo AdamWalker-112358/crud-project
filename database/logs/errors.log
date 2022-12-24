@@ -12,3 +12,7 @@ Sat Dec 17 2022 21:52:34 GMT+0200 (Israel Standard Time) | http | /users/f3d7feb
 Sat Dec 17 2022 22:05:16 GMT+0200 (Israel Standard Time) | http | /tasks/b6e40a7e-be06-4380-9cc8-bb4017d08ba31 | Error:Entity type: tasks | Entity Not Found 
 Sat Dec 17 2022 22:07:45 GMT+0200 (Israel Standard Time) | http | /tasks/delete | SyntaxError:Unexpected token } in JSON at position 63 
 Sat Dec 17 2022 22:08:26 GMT+0200 (Israel Standard Time) | http | /tasks/delete | Error:Entity type: tasks | Entity Not Found 
+Fri Dec 23 2022 08:30:07 GMT+0200 (Israel Standard Time) | http | /users/23532 | Error:Entity type: users | Entity Not Found 
+Fri Dec 23 2022 08:42:21 GMT+0200 (Israel Standard Time) | http | /users/f3d7feb9-686b-4fdf-8b3d-b3e32fa10a76111 | Error:Entity type: users | Entity Not Found 
+Fri Dec 23 2022 08:42:40 GMT+0200 (Israel Standard Time) | http | /users/delete | Error:Entity type: users | Entity Not Found 
+Fri Dec 23 2022 09:03:29 GMT+0200 (Israel Standard Time) | http | /tasks/ | Error:Entity type: tasks | Entity Not Found 
