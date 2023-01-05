@@ -1,5 +1,6 @@
 import express from 'express'
 import morgan from 'morgan'
+import cors from 'cors'
 
 import userRouter from './routes/users.js'
 import taskRouter from './routes/tasks.js'
@@ -11,6 +12,7 @@ import response404 from './404/404.js'
 const {HOST = 'localhost', PORT = 1234} = process.env
 const server = express()
 
+server.use(cors())
 server.use(morgan('dev'))
 server.use(express.json())
 server.use(logHttpToDb())
